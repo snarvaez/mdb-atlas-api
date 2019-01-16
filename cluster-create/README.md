@@ -1,4 +1,4 @@
-# AUTO-DEPLOY
+# CLUSTER-CREATE
 
 This script demonstrates the ability to automate the deployment & configuration of a production ready MongoDB Atlas cluster deployment, which is ready live within X minutes of invoking a single command.
 
